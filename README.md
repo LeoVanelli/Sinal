@@ -1,13 +1,29 @@
-# Insira aqui o nome do exercício
+# Sinal
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
-  
+* 🖥️ Exercício: Decisão e operações lógicas (2) - Sinal
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/decisao-simples.md
+
 ## Enunciado
-  
-Insira aqui a descrição do exercício
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Leia um número inteiro e exiba "Negativo", "Zero" ou "Positivo", conforme o caso.
+
+Ex.:
+```
+Digite um número: 35
+Positivo
+```
+ou
+```
+Digite um número: -10
+Negativo
+```
+ou
+```
+Digite um número: 0
+Zero
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
